@@ -62,9 +62,10 @@ body {
   margin-right: auto;
 }
 
-.site-header {
-  background-color: var(--white);
+.site-header { 
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.0562443);
+  background-color: var(--white);
+
 }
 .header-container {
   display: flex;
