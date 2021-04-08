@@ -148,6 +148,11 @@ body {
   line-height: 20px;
   border: none;
   outline: none;
+  border-radius:5px;
+}
+
+.search-input::placeholder{
+  background: var(--white);
 }
 
 .counrty-select {
